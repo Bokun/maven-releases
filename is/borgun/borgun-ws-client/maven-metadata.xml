@@ -3,10 +3,11 @@
   <groupId>is.borgun</groupId>
   <artifactId>borgun-ws-client</artifactId>
   <versioning>
-    <release>1.0</release>
+    <release>1.0a</release>
     <versions>
       <version>1.0</version>
+      <version>1.0a</version>
     </versions>
-    <lastUpdated>20140106205420</lastUpdated>
+    <lastUpdated>20140508102810</lastUpdated>
   </versioning>
 </metadata>
